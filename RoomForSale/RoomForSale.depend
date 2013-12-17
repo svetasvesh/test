@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1367613003 source:d:\roomforsale\main.cpp
+	<iostream>
+	<fstream>
+	"array.h"
+
+1367433178 d:\roomforsale\array.h
+	<iostream>
+

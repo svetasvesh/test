@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1368922072 source:d:\proga\hashmm\main.cpp
+	<iostream>
+	"hashMM.h"
+
+1368995028 d:\proga\hashmm\hashmm.h
+	"array.h"
+	"list.h"
+	<iostream>
+	<fstream>
+
+1362655369 d:\proga\hashmm\array.h
+	<iostream>
+
+1368994895 d:\proga\hashmm\list.h
+	<iostream>
+
